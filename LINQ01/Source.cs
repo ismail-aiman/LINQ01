@@ -397,7 +397,7 @@ namespace LINQ01
                 City = "Cairo",
                 Region = "",
                 PostalCode = "11341",
-                Country = "Egypt",
+                Country = "Egpt",
                 Phone = "011-35789023",
                 Orders = new Order[]
                 {
